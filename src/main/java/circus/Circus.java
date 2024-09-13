@@ -27,6 +27,8 @@ public class Circus {
         }
     }
 
+    // If u have a very defined type hierarchy, u can use abstract classes.
+    // If u just need a behavior to be specified, u can use interface.
     private static int calculateAssetValue(Asset[] assets) {
         int total = 0;
         for (Asset a : assets) {
