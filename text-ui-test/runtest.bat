@@ -1,3 +1,5 @@
+@REM The .\runtest.bat should be run under directory text-ui-test
+
 @ECHO OFF
 
 REM create bin directory if it doesn't exist
